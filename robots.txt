@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-1gchqs.cuansalam.sbs/sitemap.xml
